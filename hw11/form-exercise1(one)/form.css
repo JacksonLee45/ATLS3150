@@ -16,7 +16,7 @@ div#formcol1 {
 
 label {
 	margin-right: .3em;
-	width: 6em;  /* Changed it to 5.5 to accomodate both the fields and the radio buttons */
+	width: 7em;  /* changed it to 7 to accomodate the github preview formatting  */
 	display: inline-block;
 	text-align: right;
 }
